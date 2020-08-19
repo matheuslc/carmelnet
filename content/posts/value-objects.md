@@ -1,7 +1,7 @@
 ---
 title: "Value Objects, Primitive Possesion & Types"
 date: 2020-08-19T14:41:14-03:00
-draft: true
+draft: false
 ---
 
 Salve galera, tudo certo?

@@ -1,4 +1,4 @@
-baseURL = "http://matheuslc.com/"
-languageCode = "en-us"
-title = "carmelnet o espaço do carmel na net"
+baseURL = "matheuslc.github.io"
+languageCode = "pt-br"
+title = "matheu sé loco blog"
 theme = "monopriv"
